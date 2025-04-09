@@ -1,0 +1,17 @@
+NAME : teste1
+COMMENT : drilling problem (Ludwig)
+TYPE : TSP
+DIMENSION: 10
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+  1 88 49
+  2 88 30
+  3 70 33
+  4 56 40
+  5 56 57
+  6 46 55
+  7 36 69
+  8 28 69
+  9 28 61
+ 10 20 69
+EOF
